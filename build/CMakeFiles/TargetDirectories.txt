@@ -1,0 +1,4 @@
+/home/pradyunn-kale/Projects/baremetalarduino/build/CMakeFiles/main.dir
+/home/pradyunn-kale/Projects/baremetalarduino/build/CMakeFiles/upload.dir
+/home/pradyunn-kale/Projects/baremetalarduino/build/CMakeFiles/edit_cache.dir
+/home/pradyunn-kale/Projects/baremetalarduino/build/CMakeFiles/rebuild_cache.dir

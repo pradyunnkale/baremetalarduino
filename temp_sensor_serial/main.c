@@ -37,7 +37,7 @@ int main() {
         sprintf(buf, "%d.%02d", temp_int, temp_frac);
         uart_print(buf);
         uart_print("\r\n");
-        my_delay(100000);
+        my_delay(1000000);
     }
 
     return 0;
